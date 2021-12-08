@@ -1,0 +1,12 @@
+.textarea{
+    width: 40vw;
+    height: 20vh;
+}
+.select{
+    width:10% !important;
+    color: blue;
+}
+.transFrom,.transTo{
+    margin: 10px;
+
+}
